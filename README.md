@@ -22,4 +22,9 @@ npm start
 ```
 git pull origin main
 npm install
-npm install --save-dev @tailwindcss/postcss
+module.exports = {
+  plugins: [
+    require('tailwindcss'),
+    require('autoprefixer'),
+  ],
+};
