@@ -22,3 +22,4 @@ npm start
 ```
 git pull origin main
 npm install
+npm install --save-dev @tailwindcss/postcss
