@@ -1,0 +1,22 @@
+# MapStore Marketplace
+
+A React + Vite + TypeScript application for the MapStore Marketplace.
+
+## Development
+
+```bash
+npm install
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+```
+
+## Start Production Server
+
+```bash
+npm start
+```
